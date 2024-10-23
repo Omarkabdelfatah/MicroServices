@@ -1,7 +1,0 @@
-org\example\CustomerService.class
-org\example\Customer.class
-org\example\CustomerApplication.class
-org\example\Customer$CustomerBuilder.class
-org\example\CustomerController.class
-org\example\CustomerRegistrationRequest.class
-org\example\CustomerRepository.class
